@@ -1,5 +1,5 @@
 
-# Project Title
+# Mythicforge launcher
 The mythicforge launcher, which downloads the wotlk client for you and automatically applies new patches if there are any! 
 
 
