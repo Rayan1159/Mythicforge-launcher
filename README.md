@@ -10,4 +10,4 @@ The mythicforge launcher, which downloads the wotlk client for you and automatic
 
 ## Support
 
-For support, email info@mythicforge.online or join our [Discord server]("https://discord.gg/RyBsE22acE").
+For support, email info@mythicforge.online or join our discord server https://discord.gg/RyBsE22acE
